@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattlandau
 - 👀 I’m interested in AR/VR.
-- 🌱 I’m currently learning C# and Unity3D.
+- 🌱 I’m currently learning C#, Unity3D, Swift, and Unreal Engine.
 - 💞️ I’m looking to collaborate on technology that makes the world a better place.
 - 📫 How to reach me: mattlandau+github@gmail.com
 
